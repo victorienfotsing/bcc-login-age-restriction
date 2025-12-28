@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: BCC Login Age Restriction
-Plugin URI:  https://fotsing.de/wp-plugins/bcc-login-age-restriction
+Plugin URI:  https://github.com/victorienfotsing/bcc-login-age-restriction
 Description: Restrict access to a specific post by age using BCC Login token claims.
 Version:     0.1.0
 Author:      Victorien Fotsing
